@@ -28,7 +28,7 @@
 			<ul>
 				<li><a href="member/signup_form.jsp">회원가입 폼</a></li>
 				<li><a href="member/login_form.jsp">로그인 폼</a></li>
-
+				<li><a href="javascript:alert('메롱');">눌러보세요</a></li>
 				
 				
 
